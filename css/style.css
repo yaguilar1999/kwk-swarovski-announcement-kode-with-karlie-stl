@@ -58,3 +58,6 @@ body, html {
     font-family: "Trebuchet MS", "Helvetica", sans-serif;
     float: left;
 }
+
+a { color: inherit; 
+}
