@@ -3,7 +3,7 @@
 
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/Swarvoski-KarlieKloss-BeBrilliant.png" width="250px" align="right" hspace="10" style="border-radius: 20px; margin: 0px 0px 15px 15px;"> 
 
-Karlie has been named the brand-new face of jewelry powerhouse Swarovski. She will be featured wearing the brand's luxe products across both digital and traditional campaign platforms for the next two years. You've been tasked to design a landing page that makes their official announcement. 
+Karlie has been named the brand-new face of jewelry powerhouse Swarovski. She will be featured wearing the brand's luxe products across both digital and traditional campaign platforms for the next two years.  Today you are the developer and Swarovski is the client. You've been tasked to design a landing page that makes their official announcement.
 
 
 
