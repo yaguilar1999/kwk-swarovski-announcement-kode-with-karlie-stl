@@ -1,10 +1,10 @@
-# KARLIE KLOSS MEETS SWAROVSKI
-
+# Karlie + Swarovski + HTML
 
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/Swarvoski-KarlieKloss-BeBrilliant.png" width="250px" align="right" hspace="10" style="border-radius: 20px; margin: 0px 0px 15px 15px;"> 
 
-Karlie has been named the brand-new face of jewelry powerhouse Swarovski. She will be featured wearing the brand's luxe products across both digital and traditional campaign platforms for the next two years.  Today you are the developer and Swarovski is the client. You've been tasked to design a landing page that makes their official announcement.
+Karlie has been named the brand-new face of jewelry powerhouse Swarovski. She will be featured wearing the brand's products across both digital and traditional campaign platforms for the next two years.
 
+Today you are the developer and Swarovski is the client. You've been tasked to design a simple landing page that makes their official announcement.
 
 
 ### MOCKUP.jpg
@@ -20,7 +20,7 @@ Each line of text in this file corresponds to a note in `index.html` that will i
 
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/swarovski_logo_v2016.png" hspace="10" style="border-radius: 25px; margin-bottom: 10px;"> 
 
-### Get To Werk
+### Get To Work
 
 You'll want to click `Open` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `How To: Open A Lab`.
 Use the comments found in that file to help you determine which HTML tags to use.
@@ -30,7 +30,7 @@ When you're done with your work, it's important to push your work to GitHub. Rem
 
 ### Top Tip
 
-Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory.
+Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory. (Hint: use the  <img> tag)
 
 ### Starting UP
 
