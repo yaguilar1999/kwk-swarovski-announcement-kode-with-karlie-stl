@@ -3,7 +3,7 @@ body, html {
 }
 
 #painting {
-    background-image: url(images/gray-canvas.png);
+    background-image: url(/images/gray-canvas.png);
     width: 960px;
     height: 540px;
     margin-top: 30px;
@@ -57,4 +57,7 @@ body, html {
     color: white;
     font-family: "Trebuchet MS", "Helvetica", sans-serif;
     float: left;
+}
+
+a { color: inherit; 
 }
