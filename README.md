@@ -32,6 +32,10 @@ When you're done with your work, it's important to push your work to GitHub. Rem
 
 Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory.
 
+### Starting UP
+
+In order to preview your page, you will need to make sure you are in the `Swarovski Announcement` directory and then run `httpserver` in the terminal. Copy and paste the `IP Address` into your browser and enjoy.
+
 ### Shutting Down
 Don't forget to shut down your server at the end of this lab by hitting `control` + `c`. If you don't shut down your server, you won't be able to use terminal again, or start the server again for another lab.
 
@@ -44,7 +48,7 @@ Using the extra links in the `SOURCE.md` file
 
 ### Extra Challenge #2
 
-* Replace the image of Karlie with an embedded YouTube video of Karlie pronouncing Swarovski (it's the same video you used in the Challenge #1.)
+* Replace the image of Karlie with an embedded YouTube video of Karlie pronouncing Swarovski (it's the same video you used in the Challenge #1.) Make sure that the video is sized right (width of 450 and height of 253), and centered vertically (you may need to add an extra div somewhere).
 
 ### Extra Challenge #3
 * Say "Swarovski" ten times fast. 
