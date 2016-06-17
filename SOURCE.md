@@ -2,7 +2,7 @@
 
 [swarovski_logo_v2016.png]
 
-#BeBeautiful
+#BeBrilliant
 
 KARLIE MEETS SWAROVSKI
 

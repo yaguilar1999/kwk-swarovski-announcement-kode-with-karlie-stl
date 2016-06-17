@@ -43,7 +43,7 @@ Don't forget to shut down your server at the end of this lab by hitting `control
 ### Extra Challenge #1
 Using the extra links in the `SOURCE.md` file   
 
-* Make the #BeBeautiful text link to the Swarovski "Be Beautiful" campaign page. 
+* Make the #BeBrilliant text link to the Swarovski "Be Brilliant" campaign page. 
 * Have the image of Karlie clickable so that leads to the YouTube video of her trying to pronounce Swarovski
 
 ### Extra Challenge #2
