@@ -22,8 +22,7 @@ Each line of text in this file corresponds to a note in `index.html` that will i
 
 ### Get To Work
 
-You'll want to click `Open` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `How To: Open A Lab`.
-Use the comments found in that file to help you determine which HTML tags to use.
+You'll want to click `Open` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `HTML Playground Lab`.
 
 When you're done with your work, it's important to push your work to GitHub. Remember, that's your online developer portfolio. In the Learn IDE, in terminal in the `Swarovski Announcement` directory, enter `learn submit`. This will push your code to GitHub (you can see it if you look at your repositories!) and mark the lab as complete.
 
