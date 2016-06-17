@@ -22,16 +22,16 @@ Each line of text in this file corresponds to a note in `index.html` that will i
 
 ### Get To Work
 
-You'll want to click `Open` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `HTML Playground Lab`.
+You'll want to click `Open` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked).
 
-When you're done with your work, it's important to push your work to GitHub. Remember, that's your online developer portfolio. In the Learn IDE, in terminal in the `Swarovski Announcement` directory, enter `learn submit`. This will push your code to GitHub (you can see it if you look at your repositories!) and mark the lab as complete.
+When you're done with your work, it's important to push your work to GitHub. Remember, that's your online developer portfolio. In the Learn IDE terminal, in the `Swarovski Announcement` directory, enter `learn submit`. This will push your code to GitHub (you can see it if you look at your repositories!) and mark the lab as complete.
 
 
 ### Top Tip
 
 Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory. (Hint: use the  <img> tag)
 
-### Starting UP
+### Starting Up
 
 In order to preview your page, you will need to make sure you are in the `Swarovski Announcement` directory and then run `httpserver` in the terminal. Copy and paste the `IP Address` into your browser and enjoy.
 
