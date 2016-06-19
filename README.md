@@ -50,4 +50,4 @@ Using the extra links in the `SOURCE.md` file
 * Replace the image of Karlie with an embedded YouTube video of Karlie pronouncing Swarovski (it's the same video you used in the Challenge #1.) Make sure that the video is sized right (width of 450 and height of 253), and centered vertically (you may need to add an extra div somewhere).
 
 ### Extra Challenge #3
-* Say "Swarovski" ten times fast. 
+* Snapchat yourself saying "Swarovski" ten times fast using the #BeBrilliant Snapchat filter. 
